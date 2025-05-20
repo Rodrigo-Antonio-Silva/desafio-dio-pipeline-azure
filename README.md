@@ -34,17 +34,17 @@ Demonstrar a criação de um pipeline de engenharia de dados usando ferramentas 
    - Exemplo:
      ```sql
      CREATE TABLE employees (
-    Emp_id INT PRIMARY KEY,
-    F_name VARCHAR(50),
-    L_name VARCHAR(50),
-    ssn CHAR(6),
-    B_date (DATE),
-    sex CHAR(1),
-    adress VARCHAR(100),
-    job_id INT,
-    salary DECIMAL(10,2),
-    manager_id INT,
-    dep_id INT
+     Emp_id INT PRIMARY KEY,
+     F_name VARCHAR(50),
+     L_name VARCHAR(50),
+     ssn CHAR(6),
+     B_date (DATE),
+     sex CHAR(1),
+     adress VARCHAR(100),
+     job_id INT,
+     salary DECIMAL(10,2),
+     manager_id INT,
+     dep_id INT
 );
      ```
 
@@ -65,13 +65,13 @@ Demonstrar a criação de um pipeline de engenharia de dados usando ferramentas 
 ## 📸 Prints do Projeto
 
 ### 🎛️ Azure Data Factory - Pipeline
-![print_pipeline](caminho/print_pipeline.png)
+![print_pipeline](https://github.com/Rodrigo-Antonio-Silva/desafio-dio-pipeline-azure/blob/0cd8192aa7c6825e1c4d73d2ca079f3ce73757d8/Captura%20de%20tela%202025-05-20%20090137.png)
 
 ### 🗃️ Tabela no MySQL
-![print_mysql](caminho/print_mysql.png)
+![print_mysql](Captura de tela 2025-05-20 085830.png)
 
 ### 📂 Arquivo .CSV no Storage
-![print_csv](caminho/print_csv.png)
+![print_csv](https://github.com/Rodrigo-Antonio-Silva/desafio-dio-pipeline-azure/blob/0cd8192aa7c6825e1c4d73d2ca079f3ce73757d8/Captura%20de%20tela%202025-05-20%20090314.png)
 
 ---
 
