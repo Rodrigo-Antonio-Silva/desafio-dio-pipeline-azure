@@ -68,7 +68,7 @@ Demonstrar a criação de um pipeline de engenharia de dados usando ferramentas 
 ![print_pipeline](https://github.com/Rodrigo-Antonio-Silva/desafio-dio-pipeline-azure/blob/0cd8192aa7c6825e1c4d73d2ca079f3ce73757d8/Captura%20de%20tela%202025-05-20%20090137.png)
 
 ### 🗃️ Tabela no MySQL
-![print_mysql](Captura de tela 2025-05-20 085830.png)
+![print_mysql](https://github.com/Rodrigo-Antonio-Silva/desafio-dio-pipeline-azure/blob/8896a6176c629288d77ef96ad4f2454ae8a09df4/Captura%20de%20tela%202025-05-20%20085830.png)
 
 ### 📂 Arquivo .CSV no Storage
 ![print_csv](https://github.com/Rodrigo-Antonio-Silva/desafio-dio-pipeline-azure/blob/0cd8192aa7c6825e1c4d73d2ca079f3ce73757d8/Captura%20de%20tela%202025-05-20%20090314.png)
